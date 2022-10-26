@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <Button variant="contained">Master Keith Python the best</Button>
+      <Button variant="contained">KEITH MALAKAS</Button>
       </header>
     </div>
   );
